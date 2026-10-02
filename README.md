@@ -1,4 +1,4 @@
-**Breast Cancer Classification Using CNN**
+**Histopathology Image Classifier — Breast Cancer Classification**
 
 **Overview**
 
